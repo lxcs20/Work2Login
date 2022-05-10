@@ -1,0 +1,10 @@
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\bin\Debug\WindowsFormsAppWork2ABCcompny.exe
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\bin\Debug\WindowsFormsAppWork2ABCcompny.pdb
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\obj\Debug\WindowsFormsAppWork2ABCcompny.csproj.AssemblyReference.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\obj\Debug\WindowsFormsAppWork2ABCcompny.Form1.resources
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\obj\Debug\WindowsFormsAppWork2ABCcompny.Properties.Resources.resources
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\obj\Debug\WindowsFormsAppWork2ABCcompny.csproj.GenerateResource.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\obj\Debug\WindowsFormsAppWork2ABCcompny.csproj.CoreCompileInputs.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\obj\Debug\WindowsFormsAppWork2ABCcompny.exe
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\obj\Debug\WindowsFormsAppWork2ABCcompny.pdb
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\WindowsFormsAppWork2ABCcompny\WindowsFormsAppWork2ABCcompny\obj\Debug\WindowsFormsAppWork2ABCcompny.frmMain.resources
